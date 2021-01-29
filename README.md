@@ -1,7 +1,8 @@
-# cookbook
-A collection of package recipes for Redox.
+# Setheum.XYZ Website
 
-[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+The site was built with the [Bootstrap 5](https://getbootstrap.com/) framework and the theme Leap and the deployed version is on the gh-pages branch.
 
-In order for this repository to be useful, it must be set up with an environment
-from the [Redox repository](https://gitlab.redox-os.org/redox-os/redox).
+## Deployment
+
+This static site is deployed to [GitHub Pages](https://pages.github.com/) from the `gh-pages` branch.
+
